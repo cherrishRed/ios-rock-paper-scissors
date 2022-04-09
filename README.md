@@ -1,5 +1,5 @@
 # ✊✌️✋묵찌빠 게임 프로젝트 저장소
-> 프로젝트 기간 2022.02.08 ~ 2022.02.11 </br>
+> 프로젝트 기간 2022.02.15 ~ 2022.02.19</br>
 팀원 : [@mmim](https://github.com/josh0318) [@Red](https://github.com/cherrishRed) / 리뷰어 : [@chacha](https://github.com/ChaminLee)
 
 ## 목차
@@ -33,6 +33,7 @@
 ## 키워드
 
 ## [STEP 1]
+[STEP1 PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/113)
 
 ### 고민한 점
 * 에러 핸들링
@@ -118,6 +119,7 @@ CaseIterable 을 채택하면 self.allCases 를 사용할 수 있으며, 이는 
 
 
 ## [STEP 2]
+[STEP2 PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/124)
 
 ### 고민한 점
 * return 이 있는 함수의 호출
